@@ -1,8 +1,14 @@
 - 👋 Hi, I’m @The-Best-Codes
-- 👀 I’m interested in blockly and javascript coding
-- 🌱 I’m currently learning how to make apps for phones
-- 💞️ I’m looking to collaborate on a coding community
-- 📫 I'm @Best_codes on mBlock: https://planet.mblock.cc/u/1428526 You can talk to me on there
+- I love coding in web languages and Node. I also do some micropython, bash, c++, etc. I do some stuff with Arduinos too. I am Best_codes pretty much everywhere.
+- I have a dev.to, a Stack Overflow, a GitHub, and more.
+- I do web dev and software dev and half moderate for the makeblock forum.
+- You can contact me through best-codes@proton.me, my trash email (don’t ever share your real one).
+
+- I am working on a home and weather monitor called WeatherWorks.
+- I am learing Python.
+- I like developing extenions for mBlock (it is easy now that I have more experience), and programming simple projects with it.
+
+*Code to help others*
 
 <!---
 The-Best-Codes/The-Best-Codes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
