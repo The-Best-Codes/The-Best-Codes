@@ -2,13 +2,13 @@
 
 I love coding in <span title="HTML, JavaScript, CSS, PHP, etc." id="best-codes-langs"><ins>web languages</ins></span> and some simple [API](https://en.wikipedia.org/wiki/API) languages like [Node.js](https://en.wikipedia.org/wiki/Node.js). I also do some [Micropython](https://en.wikipedia.org/wiki/MicroPython), [Bash](https://en.wikipedia.org/wiki/Bash_(Unix_shell)), [C++](https://en.wikipedia.org/wiki/C%2B%2B), and other unrelated languages. I do some stuff with [Arduinos](https://www.arduino.cc/), too (particularly [UNO](https://en.wikipedia.org/wiki/Arduino_Uno)s). I am [Best_codes](https://www.google.com/search?q=best_codes) pretty much everywhere.
 
-I have a [dev.to](https://dev.to/best_codes?referal=best_codes&myself), a <span title="I don't use it much. :/">[Stack Overflow](https://stackoverflow.com/users/20392792/best-codes?ref=best-codes&id=github.com&purpose=profile-readme.md)</span>, a <span title="You are looking at it. :D">[GitHub](https://github.com/The-Best-Codes)</span>, and more.
+I have accounts on [dev.to](https://dev.to/best_codes?referal=best_codes&myself),  <span title="I don't use it much. :/">[Stack Overflow](https://stackoverflow.com/users/20392792/best-codes?ref=best-codes&id=github.com&purpose=profile-readme.md)</span>,  <span title="You are looking at it. :D">[GitHub](https://github.com/The-Best-Codes)</span>, and a lot of other places.
 
-I do web development (some [WordPress](https://wordpress.com/?ref=the-best-codes_github.com), but primarily [hand coding](https://en.wikipedia.org/wiki/Hand_coding) and software developement (mostly using <span title="Build cross-platform desktop apps with JavaScript, HTML, and CSS">[Electron](https://www.electronjs.org/)</span>). I also half moderate for the [makeblock forum](https://forum.makeblock.com?invite=best_codes&ref=the-best-codes_github.com) (I am Best_codes on there).
+I do web developement (some [WordPress](https://wordpress.com/?ref=the-best-codes_github.com), but primarily [hand coding](https://en.wikipedia.org/wiki/Hand_coding)) and software developement (mostly using <span title="Build cross-platform desktop apps with JavaScript, HTML, and CSS">[Electron](https://www.electronjs.org/)</span>). I also half moderate for the [makeblock forum](https://forum.makeblock.com?invite=best_codes&ref=the-best-codes_github.com) (I am Best_codes on there).
 
-I have developed a couple extensions, for my favorite browser, (and the best browser there is!) [Opera](https://opera.com?ref=best_codes).
+I have developed a couple extensions for my favorite browser, (and the best browser there is!) [Opera](https://opera.com?ref=best_codes).
 
-You can contact me through best-codes@proton.me, my trash email (don’t ever share your real one).
+You can contact me through <a href="mailto:best-codes@proton.me?subject=Hello%20Best_codes!&body=Hello%2C%20I%20saw%20[something]%20on%20your%20GitHub%20profile%20and%20I%20thought%20I%20would%20email%20you%20about%20it.%0A%0A%20%5Bemail%20body%5D%0D%0A%0D%0ABest%20regards%2C%0D%0A%5BYour%20Name%5D%0AReferenced%20from%20GitHub">best-codes@proton.me</a>, my trash email (don’t ever share your real one).
 
 I am working on a home and weather monitor called WeatherWorks.
 
@@ -21,7 +21,7 @@ Enjoy my profile!
 <br />
 <br />
 
-_Code to help others_
+<span onclick="alert('Hi! This code will not run. :( It is so sad. ):...');">_Code to help others_</span>
 
 <!---
 The-Best-Codes/The-Best-Codes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
