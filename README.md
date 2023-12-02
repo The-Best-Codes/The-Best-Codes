@@ -5,7 +5,7 @@
 - You can contact me through best-codes@proton.me, my trash email (don’t ever share your real one).
 
 - I am working on a home and weather monitor called WeatherWorks.
-- I am learing Python.
+- I am learing Python and also how to 3D design. 
 - I like developing extenions for mBlock (it is easy now that I have more experience), and programming simple projects with it.
 
 *Code to help others*
