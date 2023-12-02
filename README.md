@@ -8,7 +8,7 @@ I do web developement (some [WordPress](https://wordpress.com/?ref=the-best-code
 
 I have developed a couple extensions for my favorite browser, (and the best browser there is!) [Opera](https://opera.com?ref=best_codes).
 
-You can contact me through <a href="mailto:best-codes@proton.me?subject=Hello%20Best_codes!&body=Hello%2C%20I%20saw%20[something]%20on%20your%20GitHub%20profile%20and%20I%20thought%20I%20would%20email%20you%20about%20it.%0A%0A%20%5Bemail%20body%5D%0D%0A%0D%0ABest%20regards%2C%0D%0A%5BYour%20Name%5D%0AReferenced%20from%20GitHub">best-codes@proton.me</a>, my trash email (don’t ever share your real one).
+You can contact me through <a href="mailto:best-codes@proton.me?subject=Hello%20Best_codes!&body=Hello%2C%20I%20saw%20[something]%20on%20your%20GitHub%20profile%20and%20I%20thought%20I%20would%20email%20you%20about%20it.%0A%0A%20%5Bemail%20body%5D%0D%0A%0D%0ABest%20regards%2C%0D%0A%5BYour%20Name%5D%0AReferenced%20from%20GitHub">my email</a>, best-codes@proton.me, which is my trash email (don’t ever share your real one).
 
 I am working on a home and weather monitor called WeatherWorks.
 
