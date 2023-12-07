@@ -22,7 +22,7 @@ Enjoy my profile!
 <br />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=The-Best-Codes&line_height=27" />
 <br />
-<!--<img src="https://github-readme-stats.vercel.app/api?username=The-Best-Codes&show_icons=true&line_height=27&show_score=false" />-->
+<img src="https://github-readme-stats.vercel.app/api?username=The-Best-Codes&show_icons=true&line_height=27&rank_icon=github&hide_rank=true" />
 <br />
 <!--<img src="https://github-readme-stats.vercel.app/api/pin/?username=The-Best-Codes&repo=The-Best-Codes.github.io" />-->
 
