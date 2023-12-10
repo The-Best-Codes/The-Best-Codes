@@ -32,3 +32,21 @@ Enjoy my profile!
 The-Best-Codes/The-Best-Codes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+<!-- Default Statcounter code for BestCodes's Website
+https://github.com/the-best-codes -->
+<!-- <script>
+var sc_project=12947838; 
+var sc_invisible=1; 
+var sc_security="64126f45"; 
+</script>
+<script type="text/javascript"
+src="https://www.statcounter.com/counter/counter.js"
+async></script> -->
+<noscript><div class="statcounter"><a title="Web Analytics"
+href="https://statcounter.com/" target="_blank"><img
+class="statcounter"
+src="https://c.statcounter.com/12947838/0/64126f45/1/"
+alt="Web Analytics"
+referrerPolicy="no-referrer-when-downgrade"></a></div></noscript>
+<!-- End of Statcounter Code -->
