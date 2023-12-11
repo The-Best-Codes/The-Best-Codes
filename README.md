@@ -4,7 +4,7 @@ I love coding in <span title="HTML, JavaScript, CSS, PHP, etc." id="best-codes-l
 
 I have accounts on [dev.to](https://dev.to/best_codes?referal=best_codes&myself),  <span title="I don't use it much. :/">[Stack Overflow](https://stackoverflow.com/users/20392792/best-codes?ref=best-codes&id=github.com&purpose=profile-readme.md)</span>,  <span title="You are looking at it. :D">[GitHub](https://github.com/The-Best-Codes)</span>, and a lot of other places.
 
-I do web developement (some [WordPress](https://wordpress.com/?ref=the-best-codes_github.com), but primarily [hand coding](https://en.wikipedia.org/wiki/Hand_coding)) and software developement (mostly using <span title="Build cross-platform desktop apps with JavaScript, HTML, and CSS">[Electron](https://www.electronjs.org/)</span>). I also half moderate for the [makeblock forum](https://forum.makeblock.com?invite=best_codes&ref=the-best-codes_github.com) (I am Best_codes on there).
+I do web development (some [WordPress](https://wordpress.com/?ref=the-best-codes_github.com), but primarily [hand coding](https://en.wikipedia.org/wiki/Hand_coding)) and software development (mostly using <span title="Build cross-platform desktop apps with JavaScript, HTML, and CSS">[Electron](https://www.electronjs.org/)</span>). I also half moderate for the [makeblock forum](https://forum.makeblock.com?invite=best_codes&ref=the-best-codes_github.com) (I am Best_codes on there).
 
 I have developed a couple extensions for my favorite browser, (and the best browser there is!) [Opera](https://opera.com?ref=best_codes).
 
