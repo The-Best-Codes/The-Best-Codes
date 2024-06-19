@@ -2,10 +2,10 @@
 
 I love coding in 🌐 <span title="HTML, JavaScript, CSS, PHP, etc." id="best-codes-langs"><ins>web languages</ins></span> and some simple 🔧 [API](https://en.wikipedia.org/wiki/API) languages like [Node.js](https://en.wikipedia.org/wiki/Node.js). I also do some 🐍 [Micropython](https://en.wikipedia.org/wiki/MicroPython), 🐚 [Bash](https://en.wikipedia.org/wiki/Bash_(Unix_shell)), 🖥️ [C++](https://en.wikipedia.org/wiki/C%2B%2B), and other unrelated languages. I do some stuff with [Arduinos](https://www.arduino.cc/), too (particularly [UNO](https://en.wikipedia.org/wiki/Arduino_Uno)s). I am [Best_codes](https://www.google.com/search?q=best_codes) pretty much everywhere.
 
-![Profile views](https://visitor-badge.glitch.me/badge?page_id=The-Best-Codes.profile)
+![](https://hit.yhype.me/github/profile?user_id=106822363)
 ![GitHub followers](https://img.shields.io/github/followers/The-Best-Codes?label=Follow&style=social)
 ![Twitter Follow](https://img.shields.io/twitter/follow/The-Best-Codes?style=social)
-![Dev.to](https://img.shields.io/dev.to/follow/The-Best-Codes?style=social)
+![Dev.to](https://dev.to/best_codes)
 
 ### Skills
 
@@ -13,7 +13,9 @@ I love coding in 🌐 <span title="HTML, JavaScript, CSS, PHP, etc." id="best-co
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Next JS](https://img.shields.io/badge/-Next.js-432851?style=flat&logo=next.js&logoColor=white)
 ![Electron](https://img.shields.io/badge/-Electron-47848F?style=flat&logo=electron&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-0987ff?style=flat&logo=typescript&logoColor=white)
 
 ### Projects
 
