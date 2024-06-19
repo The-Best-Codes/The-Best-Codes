@@ -5,7 +5,7 @@ I love coding in 🌐 <span title="HTML, JavaScript, CSS, PHP, etc." id="best-co
 ![](https://hit.yhype.me/github/profile?user_id=106822363)
 ![GitHub followers](https://img.shields.io/github/followers/The-Best-Codes?label=Follow&style=social)
 ![Twitter Follow](https://img.shields.io/twitter/follow/The-Best-Codes?style=social)
-![Dev.to](https://dev.to/best_codes)
+[Dev.to](https://dev.to/best_codes)
 
 ### Skills
 
