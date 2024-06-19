@@ -4,7 +4,8 @@ I love coding in 🌐 <span title="HTML, JavaScript, CSS, PHP, etc." id="best-co
 
 ![Profile views](https://visitor-badge.glitch.me/badge?page_id=The-Best-Codes.profile)
 ![GitHub followers](https://img.shields.io/github/followers/The-Best-Codes?label=Follow&style=social)
-![Twitter Follow](https://img.shields.io/twitter/follow/Best_codes?style=social)
+![Twitter Follow](https://img.shields.io/twitter/follow/The-Best-Codes?style=social)
+![Dev.to](https://img.shields.io/dev.to/follow/The-Best-Codes?style=social)
 
 ### Skills
 
@@ -16,8 +17,8 @@ I love coding in 🌐 <span title="HTML, JavaScript, CSS, PHP, etc." id="best-co
 
 ### Projects
 
-- [WeatherWorks](https://github.com/The-Best-Codes/WeatherWorks) - A home and weather monitor.
-- [My Website](https://github.com/The-Best-Codes/my-website) - Personal portfolio and blog.
+- [WeatherWorks](https://github.com/The-Best-Codes/WeatherWorks) - A home and weather dashboard (unreleased).
+- [My Website](https://github.com/The-Best-Codes/the-best-codes.github.io) - Personal portfolio and blog.
 
 ### Find me on:
 
