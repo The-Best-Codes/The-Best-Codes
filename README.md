@@ -77,4 +77,10 @@ I love coding in 🌐 <span title="HTML, JavaScript, CSS, PHP, etc." id="best-co
 
 <img src="https://raw.githubusercontent.com/The-Best-Codes/The-Best-Codes/output/snake.svg" alt="Snake animation" />
 
+<div align="center">
+  <a href="https://open.spotify.com/user/31d6fzgwhr46jsknmilrwisv6qsq">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31d6fzgwhr46jsknmilrwisv6qsq&count=5&unique=true" alt="Spotify recently played"  />
+  </a>
+</div>
+
 ###
