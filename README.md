@@ -1,35 +1,80 @@
-👋 Hi, I’m @The-Best-Codes
+<h2 align="left">👋 Hi! I’m @The-Best-Codes. I'm a Christian, Coder, and Creator!</h2>
 
 I love coding in 🌐 <span title="HTML, JavaScript, CSS, PHP, etc." id="best-codes-langs"><ins>web languages</ins></span> and some simple 🔧 [API](https://en.wikipedia.org/wiki/API) languages like [Node.js](https://en.wikipedia.org/wiki/Node.js). I also do some 🐍 [Micropython](https://en.wikipedia.org/wiki/MicroPython), 🐚 [Bash](https://en.wikipedia.org/wiki/Bash_(Unix_shell)), 🖥️ [C++](https://en.wikipedia.org/wiki/C%2B%2B), and other unrelated languages. I do some stuff with [Arduinos](https://www.arduino.cc/), too (particularly [UNO](https://en.wikipedia.org/wiki/Arduino_Uno)s). I am [Best_codes](https://www.google.com/search?q=best_codes) pretty much everywhere.
 
-![](https://hit.yhype.me/github/profile?user_id=106822363)
-![GitHub followers](https://img.shields.io/github/followers/The-Best-Codes?label=Follow&style=social)
-![Twitter Follow](https://img.shields.io/twitter/follow/The-Best-Codes?style=social)
-[Dev.to](https://dev.to/best_codes)
+###
 
-### Skills
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=The-Best-Codes&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true&theme=default&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=The-Best-Codes&locale=en&mode=weekly&theme=default&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=The-Best-Codes&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=default&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Next JS](https://img.shields.io/badge/-Next.js-432851?style=flat&logo=next.js&logoColor=white)
-![Electron](https://img.shields.io/badge/-Electron-47848F?style=flat&logo=electron&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-0987ff?style=flat&logo=typescript&logoColor=white)
+###
 
-### Projects
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="30" alt="npm logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="30" alt="androidstudio logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" height="30" alt="nuxtjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="30" alt="ubuntu logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="30" alt="android logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="30" alt="arduino logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" height="30" alt="electron logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="30" alt="blender logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="30" alt="wordpress logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="30" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="30" alt="raspberrypi logo"  />
+</div>
 
-- [WeatherWorks](https://github.com/The-Best-Codes/WeatherWorks) - A home and weather dashboard (unreleased).
-- [My Website](https://github.com/The-Best-Codes/the-best-codes.github.io) - Personal portfolio and blog.
+###
 
-### Find me on:
+<div align="left">
+  <a href="https://discord.gg/dKeuR9yfBs" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  </a>
+  <a href="mailto:bestcodes.official@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+  <a href="https://dev.to/best_codes" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="devto logo"  />
+  </a>
+  <a href="https://x.com/the_best_codes" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=X.COM%20(TWITTER)&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
+  </a>
+</div>
 
-[![Dev.to](https://img.shields.io/badge/-Dev.to-000?style=flat&logo=dev.to)](https://dev.to/best_codes)
-[![Stack Overflow](https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=flat&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/20392792/best-codes)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)](https://github.com/The-Best-Codes)
+###
 
-### Contact
+<br clear="both">
 
-📧 [Email Me](mailto:best-codes@proton.me?subject=Hello%20Best_codes!&body=Hello%2C%20I%20saw%20[something]%20on%20your%20GitHub%20profile%20and%20I%20thought%20I%20would%20email%20you%20about%20it.%0A%0A%20%5Bemail%20body%5D%0D%0A%0D%0ABest%20regards%2C%0D%0A%5BYour%20Name%5D%0AReferenced%20from%20GitHub)
+<img src="https://raw.githubusercontent.com/The-Best-Codes/The-Best-Codes/output/snake.svg" alt="Snake animation" />
 
-I do web development (some [WordPress](https://wordpress.com/?ref=the-best-codes_github.com), but primarily [hand coding](https://en.wikipedia.org/wiki/Hand_coding)) and software development (mostly using <span title="Build cross-platform desktop apps with JavaScript, HTML, and CSS">[Electron](https://www.electronjs.org/)</span>). I also half moderate for the [makeblock forum](https://forum.makeblock.com?invite=best_codes&ref=the-best-codes_github.com) (I am Best_codes on there).
+###
