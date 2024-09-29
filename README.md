@@ -1,6 +1,6 @@
 <h2 align="left">👋 Hi! I’m <a href="https://github.com/The-Best-Codes">@The-Best-Codes</a>. I'm a Christian, Coder, and Creator!</h2>
-Check out my new website here: https://bestcodes.dev/
-
+Check out my new website here! https://bestcodes.dev/
+<br>
 I love coding in 🌐 <span title="HTML, JavaScript, CSS, PHP, etc." id="best-codes-langs"><ins>web languages</ins></span> and some simple 🔧 [API](https://en.wikipedia.org/wiki/API) languages like [Node.js](https://en.wikipedia.org/wiki/Node.js). I also do some 🐍 [Micropython](https://en.wikipedia.org/wiki/MicroPython), 🐚 [Bash](https://en.wikipedia.org/wiki/Bash_(Unix_shell)), 🖥️ [C++](https://en.wikipedia.org/wiki/C%2B%2B), and other unrelated languages. I do some stuff with [Arduinos](https://www.arduino.cc/), too (particularly [UNO](https://en.wikipedia.org/wiki/Arduino_Uno)s). I am [Best_codes](https://www.google.com/search?q=best_codes) pretty much everywhere.
 
 ###
