@@ -1,8 +1,8 @@
 <h2 align="left">👋 Hi! I’m <a href="https://github.com/The-Best-Codes">@The-Best-Codes</a>. I'm a Christian, Coder, and Creator!</h2>
-Check out my new website here! https://bestcodes.dev/
+Check out my new website here! <a href="https://bestcodes.dev/" target="_blank">bestcodes.dev</a>
 <br>
 <br>
-I love coding in 🌐 <span title="HTML, JavaScript, CSS, PHP, etc." id="best-codes-langs"><ins>web languages</ins></span> and some simple 🔧 [API](https://en.wikipedia.org/wiki/API) languages like [Node.js](https://en.wikipedia.org/wiki/Node.js). I also do some 🐍 [Micropython](https://en.wikipedia.org/wiki/MicroPython), 🐚 [Bash](https://en.wikipedia.org/wiki/Bash_(Unix_shell)), 🖥️ [C++](https://en.wikipedia.org/wiki/C%2B%2B), and other unrelated languages. I do some stuff with [Arduinos](https://www.arduino.cc/), too (particularly [UNO](https://en.wikipedia.org/wiki/Arduino_Uno)s). I am [Best_codes](https://www.google.com/search?q=best_codes) pretty much everywhere.
+I love coding in 🌐 <span title="HTML, JavaScript, CSS, PHP, etc." id="best-codes-langs"><ins>web languages</ins></span> and some simple 🔧 <a href="https://en.wikipedia.org/wiki/API" target="_blank">API</a> languages like <a href="https://en.wikipedia.org/wiki/Node.js" target="_blank">Node.js</a>. I also do some 🐍 <a href="https://en.wikipedia.org/wiki/MicroPython" target="_blank">Micropython</a>, 🐚 <a href="https://en.wikipedia.org/wiki/Bash_(Unix_shell)" target="_blank">Bash</a>, 🖥️ <a href="https://en.wikipedia.org/wiki/C%2B%2B" target="_blank">C++</a>, and other unrelated languages. I do some stuff with <a href="https://www.arduino.cc/" target="_blank">Arduinos</a>, too (particularly <a href="https://en.wikipedia.org/wiki/Arduino_Uno" target="_blank">UNOs</a>). I am <a href="https://www.google.com/search?q=best_codes" target="_blank">Best_codes</a> pretty much everywhere.
 
 ###
 
@@ -59,6 +59,9 @@ I love coding in 🌐 <span title="HTML, JavaScript, CSS, PHP, etc." id="best-co
 ###
 
 <div align="left">
+  <a href="https://bestcodes.dev" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=BestCodes.Dev&logo=Google%20Chrome&label=&color=4285F4&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="website logo" />
+  </a>
   <a href="https://discord.gg/dKeuR9yfBs" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
