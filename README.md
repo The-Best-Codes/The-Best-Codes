@@ -17,8 +17,6 @@
 Looking for my portfolio? Check out <a href="https://bestcodes.dev/" target="_blank">bestcodes.dev</a>.
 <br>
 <br>
-I'm a <b>Christian</b>. I write <b>codes</b>. I <b>create</b> <a href="https://makerworld.com/en/@Best_codes">things</a>. That's about all I have to say! 😆
-<br>
 If you want to get in touch, use <a href="https://bestcodes.dev/contact" target="_blank">this form</a> or <a href="mailto:bestcodes.official+gh-readme@gmail.com" target="_blank">email me</a>.
 <br>
 If you want to see some of my projects, you can check them out below.
