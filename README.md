@@ -14,7 +14,7 @@
 <div align="center"><i><b>Christian, Coder, Creator</b></i></div>
 <br>
 <br>
-Looking for my portfolio? Check out <a href="https://bestcodes.dev/" target="_blank">bestcodes.dev</a>.
+Looking for my portfolio? Check out <a href="https://bestcodes.dev/?utm_source=github.com&utm_medium=social&utm_campaign=profile-readme" target="_blank">bestcodes.dev</a>.
 <br>
 <br>
 If you want to get in touch, use <a href="https://bestcodes.dev/contact" target="_blank">this form</a> or <a href="mailto:bestcodes.official+gh-readme@gmail.com" target="_blank">email me</a>.
