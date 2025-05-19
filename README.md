@@ -19,4 +19,5 @@ Looking for my portfolio? Check out <a href="https://bestcodes.dev/?utm_source=g
 <br>
 If you want to get in touch, use <a href="https://bestcodes.dev/contact" target="_blank">this form</a> or <a href="mailto:bestcodes.official+gh-readme@gmail.com" target="_blank">email me</a>.
 <br>
-If you want to see some of my projects, you can check them out below.
+If you want to see some of my public projects, you can check them out below or on my website.
+For inquiries about my private projects, please contact me.
